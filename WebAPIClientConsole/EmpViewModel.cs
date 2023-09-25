@@ -1,6 +1,6 @@
 ﻿namespace WebAPIClientConsole
 {
-    public class Employee
+    public class EmpViewModel
     {
         public int EmpId { get; set; }
         public string FirstName { get; set; }=string.Empty;
